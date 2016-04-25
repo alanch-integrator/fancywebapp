@@ -4,4 +4,4 @@ if (1 === 1) {
   console.log("Two equals two.");
 }
 
-console.log("ADD MORE!");
+console.log("Add more!");
